@@ -1,0 +1,25 @@
+.quoteContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10vw 0;
+}
+.quoteText{
+    font-style: italic;
+    font-size: 1.8rem;
+}
+.quoteAuthor{
+    margin: 1vw 0;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.quoteButton{
+    cursor: pointer;
+    border-radius: 15px;
+    margin: 2vw 0;
+    padding: 0.3vw 1vw;
+    font-size: 1.1rem;
+    background-color: bisque;
+    color: black;
+    font-weight: bold;
+}
